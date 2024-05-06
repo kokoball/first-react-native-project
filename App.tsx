@@ -44,7 +44,7 @@ function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen name="Home" component={HomeScreen} options={{ title: "Overview" }} />
+        <Stack.Screen name="Home" component={HomeScreen} options={{ title: "홈화면" }} />
         <Stack.Screen name="Details">{(props) => <DetailsScreen {...props} />}</Stack.Screen>
       </Stack.Navigator>
     </NavigationContainer>
