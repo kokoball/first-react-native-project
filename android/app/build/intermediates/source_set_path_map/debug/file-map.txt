@@ -32,5 +32,7 @@ com.fooddeliveryapp-mergeDebugResources-30 /Users/kokoball/Develop/react-native/
 com.fooddeliveryapp-merged_res-31 /Users/kokoball/Develop/react-native/FoodDeliveryApp/android/app/build/intermediates/merged_res/debug
 com.fooddeliveryapp-debug-32 /Users/kokoball/Develop/react-native/FoodDeliveryApp/android/app/src/debug/res
 com.fooddeliveryapp-main-33 /Users/kokoball/Develop/react-native/FoodDeliveryApp/android/app/src/main/res
-com.fooddeliveryapp-packaged_res-34 /Users/kokoball/Develop/react-native/FoodDeliveryApp/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
-com.fooddeliveryapp-packaged_res-35 /Users/kokoball/Develop/react-native/FoodDeliveryApp/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
+com.fooddeliveryapp-packaged_res-34 /Users/kokoball/Develop/react-native/FoodDeliveryApp/node_modules/react-native-config/android/build/intermediates/packaged_res/debug
+com.fooddeliveryapp-packaged_res-35 /Users/kokoball/Develop/react-native/FoodDeliveryApp/node_modules/react-native-encrypted-storage/android/build/intermediates/packaged_res/debug
+com.fooddeliveryapp-packaged_res-36 /Users/kokoball/Develop/react-native/FoodDeliveryApp/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.fooddeliveryapp-packaged_res-37 /Users/kokoball/Develop/react-native/FoodDeliveryApp/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug

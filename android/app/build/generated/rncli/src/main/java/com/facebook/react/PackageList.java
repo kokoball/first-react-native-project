@@ -11,6 +11,10 @@ import com.facebook.react.shell.MainReactPackage;
 import java.util.Arrays;
 import java.util.ArrayList;
 
+// react-native-config
+import com.lugg.RNCConfig.RNCConfigPackage;
+// react-native-encrypted-storage
+import com.emeraldsanto.encryptedstorage.RNEncryptedStoragePackage;
 // react-native-safe-area-context
 import com.th3rdwave.safeareacontext.SafeAreaContextPackage;
 // react-native-screens
@@ -60,6 +64,8 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
+      new RNCConfigPackage(),
+      new RNEncryptedStoragePackage(),
       new SafeAreaContextPackage(),
       new RNScreensPackage()
     ));
