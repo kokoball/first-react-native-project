@@ -29,15 +29,12 @@ function SignUp({ navigation }: SignUpScreenProps) {
   const onChangeEmail = useCallback((text: string) => {
     setEmail(text.trim());
   }, []);
-
   const onChangeName = useCallback((text: string) => {
     setName(text.trim());
   }, []);
-
   const onChangePassword = useCallback((text: string) => {
     setPassword(text.trim());
   }, []);
-
   const onSubmit = useCallback(async () => {
     if (loading) {
       return;
